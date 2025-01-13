@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "discord.js": "^14.17.3",
+    "minecraft-server-util": "^5.4.4"
+  },
+  "name": "discord-status-minecraft",
+  "version": "1.0.0-javascript",
+  "main": "config.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node discord_bot.js"
+  },
+  "keywords": [],
+  "author": "@PPekKunGzDev",
+  "license": "MIT",
+  "description": "just discord status bot, used for minecraft project and showing on discord"
+}
